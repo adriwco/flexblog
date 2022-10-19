@@ -1,2 +1,3 @@
 @import './global/reset.css';
-@import './superinfo/superinfor.css';
+@import './parts/superinfor.css';
+@import './parts/menu.css';
